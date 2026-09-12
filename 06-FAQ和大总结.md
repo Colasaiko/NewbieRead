@@ -194,3 +194,9 @@ Issue 里指出，我也会继续把这篇文章改得更容易理解。
 **官方文档：** [Documentation](官方文档链接)  
   
   > **提示：** 本文提供的是项目官方入口。下载前建议核对项目名称、开发者、仓库地址和版本信息。
+
+
+<div class="page-nav">
+  <a href="./05-%E6%96%B0%E6%89%8B%E6%80%BB%E7%BB%93.html" class="btn-nav">← 上一篇：新手总结</a>
+  <a href="./" class="btn-nav">🏠 返回教程首页</a>
+</div>
